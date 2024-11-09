@@ -1,0 +1,5 @@
+"John","Smith","john.smith@example.com","5f4dcc3b5aa765d61d8327deb882cf99","admin"
+"Emily","Johnson","emily.johnson@example.com","5f4dcc3b5aa765d61d8327deb882cf99","user"
+"Michael","Brown","michael.brown@example.com","5f4dcc3b5aa765d61d8327deb882cf99","user"
+"Sara","Davis","sara.davis@example.com","5f4dcc3b5aa765d61d8327deb882cf99","user"
+"William","Jones","william.jones@example.com","5f4dcc3b5aa765d61d8327deb882cf99","user"
